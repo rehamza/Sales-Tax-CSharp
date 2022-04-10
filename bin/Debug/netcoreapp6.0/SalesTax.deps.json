@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "main/1.0.0": {
+      "SalesTax/1.0.0": {
         "runtime": {
-          "main.dll": {}
+          "SalesTax.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "main/1.0.0": {
+    "SalesTax/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

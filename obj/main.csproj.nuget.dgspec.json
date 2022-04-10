@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/home/runner/Sales-Tax-C/main.csproj",
-        "projectName": "main",
+        "projectName": "SalesTax",
         "projectPath": "/home/runner/Sales-Tax-C/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
         "outputPath": "/home/runner/Sales-Tax-C/obj/",

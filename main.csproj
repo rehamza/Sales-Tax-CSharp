@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp6.0</TargetFramework>
-		<StartupObject>Program</StartupObject>
+    <RootNamespace>SalesTax</RootNamespace>
+    <AssemblyName>SalesTax</AssemblyName>
   </PropertyGroup>
-
 </Project>
